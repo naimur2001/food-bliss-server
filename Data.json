@@ -12,21 +12,21 @@
           "ingredients": ["Basmati rice", "Chicken", "Onion", "Tomato", "Spices", "Oil"],
           "cooking_method": "1. Marinate the chicken with spices. 2. Cook the rice and chicken separately. 3. Layer the rice and chicken in a pot. 4. Cook on low heat until the biryani is ready.",
           "rating": 4.5,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://static.toiimg.com/thumb/53096628.cms?width=1200&height=900"
         },
         {
           "name": "Fish Curry",
           "ingredients": ["Fish", "Onion", "Tomato", "Chili", "Turmeric", "Oil"],
           "cooking_method": "1. Fry the fish until golden brown. 2. Cook the onion, tomato, and spices in oil. 3. Add water and cook until the curry is thickened. 4. Add the fish and cook for a few more minutes.",
           "rating": 4.0,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://static.toiimg.com/thumb/52447520.cms?imgsize=235911&width=800&height=800"
         },
         {
           "name": "Rasgulla",
           "ingredients": ["Milk", "Lemon juice", "Sugar", "Water", "Cardamom", "Rose water"],
           "cooking_method": "1. Boil the milk and add lemon juice to curdle it. 2. Strain the curdled milk and knead it to make cheese. 3. Make small balls and boil them in sugar syrup. 4. Add cardamom and rose water for flavor.",
           "rating": 4.2,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://i0.wp.com/lazyfoodieskitchen.com/wp-content/uploads/2020/11/rosogolla-scaled.jpg?fit=1920%2C2560&ssl=1"
         }
       ]
 
@@ -52,21 +52,21 @@
           ],
           "method": "1. Cook spinach and blend into a paste. 2. Fry onions and tomatoes. 3. Add spices and spinach. 4. Add paneer and cook for 10 minutes. 5. Serve hot.",
           "rating": 4.2,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/palak-paneer-3-500x375.jpg"
         },
         {
           "name": "Fish Curry",
           "ingredients": ["Fish", "Onion", "Tomato", "Chili", "Turmeric", "Oil"],
           "cooking_method": "1. Fry the fish until golden brown. 2. Cook the onion, tomato, and spices in oil. 3. Add water and cook until the curry is thickened. 4. Add the fish and cook for a few more minutes.",
           "rating": 4.0,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://static.toiimg.com/thumb/52447520.cms?imgsize=235911&width=800&height=800"
         },
         {
           "name": "Rasgulla",
           "ingredients": ["Milk", "Lemon juice", "Sugar", "Water", "Cardamom", "Rose water"],
           "cooking_method": "1. Boil the milk and add lemon juice to curdle it. 2. Strain the curdled milk and knead it to make cheese. 3. Make small balls and boil them in sugar syrup. 4. Add cardamom and rose water for flavor.",
           "rating": 4.2,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://i0.wp.com/lazyfoodieskitchen.com/wp-content/uploads/2020/11/rosogolla-scaled.jpg?fit=1920%2C2560&ssl=1"
         }
       ]
     },
@@ -84,21 +84,21 @@
           "ingredients": ["Chicken", "Butter", "Tomato", "Cream", "Onion", "Spices"],
           "cooking_method": "1. Cook the chicken in spices. 2. Make a tomato gravy with onion and spices. 3. Add cream and butter to the gravy. 4. Add the chicken and simmer until the sauce is thickened.",
           "rating": 4.8,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&webp=true&resize=440,400"
         },
         {
           "name": "Fish Curry",
           "ingredients": ["Fish", "Onion", "Tomato", "Chili", "Turmeric", "Oil"],
           "cooking_method": "1. Fry the fish until golden brown. 2. Cook the onion, tomato, and spices in oil. 3. Add water and cook until the curry is thickened. 4. Add the fish and cook for a few more minutes.",
           "rating": 4.0,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://static.toiimg.com/thumb/52447520.cms?imgsize=235911&width=800&height=800"
         },
         {
           "name": "Rasgulla",
           "ingredients": ["Milk", "Lemon juice", "Sugar", "Water", "Cardamom", "Rose water"],
           "cooking_method": "1. Boil the milk and add lemon juice to curdle it. 2. Strain the curdled milk and knead it to make cheese. 3. Make small balls and boil them in sugar syrup. 4. Add cardamom and rose water for flavor.",
           "rating": 4.2,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://i0.wp.com/lazyfoodieskitchen.com/wp-content/uploads/2020/11/rosogolla-scaled.jpg?fit=1920%2C2560&ssl=1"
         }
       ]
     },
@@ -123,21 +123,21 @@
           ],
           "method": "1. Cook spinach and blend into a paste. 2. Fry onions and tomatoes. 3. Add spices and spinach. 4. Add paneer and cook for 10 minutes. 5. Serve hot.",
           "rating": 4.2,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/palak-paneer-3-500x375.jpg"
         },
         {
           "name": "Fish Curry",
           "ingredients": ["Fish", "Onion", "Tomato", "Chili", "Turmeric", "Oil"],
           "cooking_method": "1. Fry the fish until golden brown. 2. Cook the onion, tomato, and spices in oil. 3. Add water and cook until the curry is thickened. 4. Add the fish and cook for a few more minutes.",
           "rating": 4.0,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://static.toiimg.com/thumb/52447520.cms?imgsize=235911&width=800&height=800"
         },
         {
           "name": "Butter Chicken",
           "ingredients": ["Chicken", "Butter", "Tomato", "Cream", "Onion", "Spices"],
           "cooking_method": "1. Cook the chicken in spices. 2. Make a tomato gravy with onion and spices. 3. Add cream and butter to the gravy. 4. Add the chicken and simmer until the sauce is thickened.",
           "rating": 4.8,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&webp=true&resize=440,400"
         }
       ]
     },
@@ -155,14 +155,14 @@
           "ingredients": ["Chicken", "Butter", "Tomato", "Cream", "Onion", "Spices"],
           "cooking_method": "1. Cook the chicken in spices. 2. Make a tomato gravy with onion and spices. 3. Add cream and butter to the gravy. 4. Add the chicken and simmer until the sauce is thickened.",
           "rating": 4.8,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&webp=true&resize=440,400"
         },
         {
           "name": "Fish Curry",
           "ingredients": ["Fish", "Onion", "Tomato", "Chili", "Turmeric", "Oil"],
           "cooking_method": "1. Fry the fish until golden brown. 2. Cook the onion, tomato, and spices in oil. 3. Add water and cook until the curry is thickened. 4. Add the fish and cook for a few more minutes.",
           "rating": 4.0,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://static.toiimg.com/thumb/52447520.cms?imgsize=235911&width=800&height=800"
         },
         {
           "name": "Palak Paneer",
@@ -176,7 +176,7 @@
           ],
           "method": "1. Cook spinach and blend into a paste. 2. Fry onions and tomatoes. 3. Add spices and spinach. 4. Add paneer and cook for 10 minutes. 5. Serve hot.",
           "rating": 4.2,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/palak-paneer-3-500x375.jpg"
         }
       ]
     },
@@ -194,21 +194,21 @@
           "ingredients": ["Chicken", "Butter", "Tomato", "Cream", "Onion", "Spices"],
           "cooking_method": "1. Cook the chicken in spices. 2. Make a tomato gravy with onion and spices. 3. Add cream and butter to the gravy. 4. Add the chicken and simmer until the sauce is thickened.",
           "rating": 4.8,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&webp=true&resize=440,400"
         },
         {
           "name": "Fish Curry",
           "ingredients": ["Fish", "Onion", "Tomato", "Chili", "Turmeric", "Oil"],
           "cooking_method": "1. Fry the fish until golden brown. 2. Cook the onion, tomato, and spices in oil. 3. Add water and cook until the curry is thickened. 4. Add the fish and cook for a few more minutes.",
           "rating": 4.0,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "image": "https://static.toiimg.com/thumb/52447520.cms?imgsize=235911&width=800&height=800"
         },
         {
-          "name": "Rasgulla",
-          "ingredients": ["Milk", "Lemon juice", "Sugar", "Water", "Cardamom", "Rose water"],
-          "cooking_method": "1. Boil the milk and add lemon juice to curdle it. 2. Strain the curdled milk and knead it to make cheese. 3. Make small balls and boil them in sugar syrup. 4. Add cardamom and rose water for flavor.",
-          "rating": 4.2,
-          "image": "https://example.com/chicken-biryani.jpg"
+          "name": "Chicken Biryani",
+          "ingredients": ["Basmati rice", "Chicken", "Onion", "Tomato", "Spices", "Oil"],
+          "cooking_method": "1. Marinate the chicken with spices. 2. Cook the rice and chicken separately. 3. Layer the rice and chicken in a pot. 4. Cook on low heat until the biryani is ready.",
+          "rating": 4.5,
+          "image": "https://static.toiimg.com/thumb/53096628.cms?width=1200&height=900"
         }
       ]
     }
