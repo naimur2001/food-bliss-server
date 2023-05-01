@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Shorshe Ilish",
+    "origin": "Bangladesh",
+    "picture": "https://i0.wp.com/pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-8.jpg?fit=1200%2C800&ssl=1",
+    "bio": "Traditional Bengali dish made with hilsa fish and mustard sauce.",
+    "method": "1. Marinate the hilsa fish with turmeric powder and salt.\n2. Fry the fish in mustard oil until golden brown.\n3. Add the green chilies and mustard paste to the pan.\n4. Cook for a few minutes until the sauce thickens.\n5. Serve hot with rice.",
+    "rating": 4.8
+  },
+  {
+    "name": "Chingri Malai Curry",
+    "origin": "West Bengal, India",
+    "picture": "https://foodindian.org/wp-content/uploads/prawn-malaikari-19-640x403.jpg",
+    "bio": "Popular Bengali dish made with prawns and coconut milk.",
+    "method": "1. Fry the prawns until golden brown.\n2. In another pan, sauté onions, garlic, and ginger.\n3. Add the coconut milk, cumin powder, and turmeric powder.\n4. Simmer for a few minutes until the sauce thickens.\n5. Add the prawns to the sauce and cook for a few more minutes.\n6. Serve hot with rice.",
+    "rating": 4.7
+  },
+  {
+    "name": "Luchi",
+    "origin": "West Bengal, India",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsHMFREuhp0CfQa8vH73cKq0P3dbrUCZf9Sw&usqp=CAU",
+    "bio": "Fried flatbread that is often served with spicy curries or chutneys.",
+    "method": "1. Mix flour, salt, and water to form a dough.\n2. Roll out the dough into small circles.\n3. Fry the circles in hot oil until golden brown.\n4. Serve hot with your favorite curry or chutney.",
+    "rating": 4.5
+  },
+  {
+    "name": "Mishti Doi",
+    "origin": "West Bengal, East Bengal",
+    "picture": "https://www.karthfoodfactory.com/wp-content/uploads/2021/04/imgpsh_fullsize_anim-2021-04-24T151845.343.jpg",
+    "bio": "Sweet and creamy yogurt dessert that is popular in Bengali cuisine.",
+    "method": "1. Boil milk and reduce it to half the quantity.\n2. Add sugar and stir until it dissolves.\n3. Cool the mixture to room temperature.\n4. Add yogurt culture and mix well.\n5. Pour the mixture into earthen pots.\n6. Keep it aside for 4-5 hours to set.\n7. Refrigerate and serve chilled.",
+    "rating": 4.9
+  }
+]
