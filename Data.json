@@ -121,7 +121,7 @@
             "1 tsp cumin powder",
             "1 tsp garam masala"
           ],
-          "method": "1. Cook spinach and blend into a paste. 2. Fry onions and tomatoes. 3. Add spices and spinach. 4. Add paneer and cook for 10 minutes. 5. Serve hot.",
+          "cooking_method": "1. Cook spinach and blend into a paste. 2. Fry onions and tomatoes. 3. Add spices and spinach. 4. Add paneer and cook for 10 minutes. 5. Serve hot.",
           "rating": 4.2,
           "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/06/palak-paneer-3-500x375.jpg"
         },
